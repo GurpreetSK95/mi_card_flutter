@@ -33,7 +33,10 @@ class BusinessCard extends StatelessWidget {
         Text(
           "Gurpreet Singh",
           style: TextStyle(
-              color: Colors.white, fontSize: 30.0, fontFamily: "Pacifico"),
+            color: Colors.white,
+            fontSize: 30.0,
+            fontFamily: "Pacifico",
+          ),
         ),
         Text(
           "MOBILE DEVELOPER",
